@@ -1,0 +1,25 @@
+/**
+ * Used to style WordPress Customizer.
+ */
+
+#customize-controls .control-section.open .control-section-kirki-nested .accordion-section-title {
+	color: #555d66;
+    background-color: #fff;
+    border-left: 4px solid #fff;
+}
+
+#customize-controls .control-section.open .control-section-kirki-nested .accordion-section-title:hover,
+#customize-controls .control-section.open .control-section-kirki-nested .accordion-section-title:focus {
+	color: #0073aa;
+    background: #f3f3f5;
+    border-left-color: #0073aa;
+}
+
+#customize-controls .control-section.open .control-section-kirki-nested .accordion-section-title:after {
+	color: #a0a5aa;
+}
+
+#customize-controls .control-section.open .control-section-kirki-nested .accordion-section-title:hover:after,
+#customize-controls .control-section.open .control-section-kirki-nested .accordion-section-title:focus:after {
+	color: #0073aa;
+}

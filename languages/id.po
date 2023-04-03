@@ -1,0 +1,1324 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Ns\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Theme Name of the theme
+#: 
+msgid "Narasix"
+msgstr "Narasix"
+
+#. Theme URI of the theme
+#: 
+msgid "http://demo.hidunks.com/narasix"
+msgstr "http://demo.hidunks.com/narasix"
+
+#. Description of the theme
+#: 
+msgid "A WordPress Blog/Magazine theme for Digital Narasix by hidunks"
+msgstr "Tema Blog/Majalah WordPress untuk Digital Narasix oleh hidunks"
+
+#. Author of the theme
+#: 
+msgid "hidunks"
+msgstr "sembunyi"
+
+#. Author URI of the theme
+#: 
+msgid "#"
+msgstr "#"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "halaman tidak ditemukan"
+
+#: attachment.php:62
+msgid "Download"
+msgstr "Unduh"
+
+#: author.php:38
+#: template-parts/content/content-slider-b.php:40
+#: template-parts/misc/author-box.php:31
+#: template-parts/single/header/single-header-overlay.php:79
+#: template-parts/single/header/single-header-split.php:188
+#: template-parts/single/header/single-header-thumbnail-no.php:76
+#: template-parts/single/header/single-header-thumbnail-top.php:192
+#: template-parts/single/header/single-header-title-top.php:101
+msgid "avatar"
+msgstr "avatar"
+
+#: author.php:50
+msgid "Posts created: "
+msgstr "Posting dibuat: "
+
+#: author.php:79
+#: author.php:103
+#: template-parts/page/header/page-header-a.php:40
+#: template-parts/page/header/page-header-b.php:40
+msgid "Nothing Found"
+msgstr "Tidak ada yang ditemukan"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "There is %1$s comment"
+msgid_plural "There are %1$s comments"
+msgstr[0] "Ada %1$s komentar"
+
+#: comments.php:48
+msgid "Reply"
+msgstr "Membalas"
+
+#: comments.php:54
+#: template-parts/single/content.php:103
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: comments.php:55
+#: template-parts/single/content.php:104
+msgid "Next"
+msgstr "Lanjut"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: footer.php:44
+msgid "Back to top"
+msgstr "Kembali ke atas"
+
+#: functions.php:137
+#: inc/theme-customizer.php:498
+msgid "Header 1"
+msgstr "Tajuk 1"
+
+#: functions.php:138
+#: inc/theme-customizer.php:499
+msgid "Header 2"
+msgstr "Tajuk 2"
+
+#: functions.php:139
+msgid "Off Canvas"
+msgstr "Di Luar Kanvas"
+
+#: functions.php:140
+#: inc/theme-customizer.php:729
+msgid "Footer"
+msgstr "Catatan kaki"
+
+#: functions.php:153
+msgid "Skip to the content"
+msgstr "Lewati ke konten"
+
+#: functions.php:178
+msgid "Default Sidebar"
+msgstr "Bilah Samping Bawaan"
+
+#: functions.php:180
+msgid "Add widgets here to display them in your sidebar on blog posts and archive pages."
+msgstr "Tambahkan widget di sini untuk menampilkannya di sidebar Anda di postingan blog dan halaman arsip."
+
+#: functions.php:189
+msgid "Page Sidebar"
+msgstr "Bilah Samping Halaman"
+
+#: functions.php:191
+msgid "Add widgets here to display them in your pages."
+msgstr "Tambahkan widget di sini untuk menampilkannya di halaman Anda."
+
+#: functions.php:200
+msgid "Footer 1"
+msgstr "Kaki 1"
+
+#: functions.php:202
+#: functions.php:213
+#: functions.php:224
+#: functions.php:235
+msgid "Add widgets here to display them in site footer."
+msgstr "Tambahkan widget di sini untuk menampilkannya di footer situs."
+
+#: functions.php:211
+msgid "Footer 2"
+msgstr "Kaki 2"
+
+#: functions.php:222
+msgid "Footer 3"
+msgstr "Kaki 3"
+
+#: functions.php:233
+msgid "Footer 4"
+msgstr "Kaki 4"
+
+#: functions.php:333
+msgid "Error loading posts"
+msgstr "Terjadi kesalahan saat memuat postingan"
+
+#: functions.php:334
+msgid "Loading"
+msgstr "Memuat"
+
+#: functions.php:335
+msgid "There are no posts left"
+msgstr "Tidak ada postingan yang tersisa"
+
+#: functions.php:336
+#: functions.php:1314
+#: inc/theme-customizer.php:1138
+#: inc/theme-customizer.php:1346
+#: inc/theme-customizer.php:1502
+#: inc/theme-customizer.php:1658
+#: inc/theme-customizer.php:1814
+msgid "Load more"
+msgstr "Muat lebih banyak"
+
+#: functions.php:632
+#: functions.php:651
+msgid "%s ago"
+msgstr "%s lalu"
+
+#: functions.php:651
+msgid "Updated"
+msgstr "Diperbarui"
+
+#: functions.php:653
+msgid "Updated on"
+msgstr "Diperbarui pada"
+
+#: functions.php:704
+#: functions.php:731
+#: functions.php:755
+#: functions.php:781
+#: functions.php:809
+msgid "View all posts in %s"
+msgstr "Lihat semua posting di %s"
+
+#: functions.php:1206
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s komentar"
+
+#: functions.php:1208
+msgid "Comment"
+msgstr "Komentar"
+
+#: functions.php:1249
+#: template-parts/page/content.php:22
+#: template-parts/single/content.php:52
+msgid "Previous page"
+msgstr "Halaman sebelumnya"
+
+#: functions.php:1250
+#: template-parts/page/content.php:21
+#: template-parts/single/content.php:51
+msgid "Next page"
+msgstr "Halaman selanjutnya"
+
+#: functions.php:1255
+#: functions.php:1277
+msgid "Posts navigation"
+msgstr "Navigasi postingan"
+
+#: functions.php:1282
+#: functions.php:1286
+msgid "Newer posts"
+msgstr "Posting baru"
+
+#: functions.php:1292
+msgid "Page %1$s of %2$s"
+msgstr "Halaman %1$s dari %2$s"
+
+#: functions.php:1298
+#: functions.php:1302
+msgid "Older posts"
+msgstr "Posting lama"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Lewati ke konten"
+
+#: inc/comments-helper.php:22
+msgid "Pingback:"
+msgstr "Ping-balik:"
+
+#: inc/comments-helper.php:46
+msgid "<strong>%s </strong>"
+msgstr "<strong>%s </strong>"
+
+#: inc/comments-helper.php:52
+msgid "%1$s at %2$s"
+msgstr "%1$s di %2$s"
+
+#: inc/comments-helper.php:60
+msgid "(Edit)"
+msgstr "(Sunting)"
+
+#: inc/comments-helper.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "Komentar dari anda sedang menunggu moderasi."
+
+#: inc/comments-helper.php:100
+msgid "Cancel"
+msgstr "Membatalkan"
+
+#: inc/comments-helper.php:101
+msgid " "
+msgstr " "
+
+#: inc/comments-helper.php:110
+msgid "(optional)"
+msgstr "(opsional)"
+
+#: inc/comments-helper.php:120
+msgid "Name"
+msgstr "Nama"
+
+#: inc/comments-helper.php:126
+msgid "E-mail address"
+msgstr "Alamat email"
+
+#: inc/comments-helper.php:132
+msgid "Website Link"
+msgstr "Tautan Situs Web"
+
+#: inc/comments-helper.php:152
+msgid " Enter comment here..."
+msgstr " Masukkan komentar di sini..."
+
+#: inc/ocdi-configs.php:21
+#: inc/ocdi-configs.php:34
+msgid "This process will import all demo content (posts, pages, categories, tags, authors, .etc) into your site. If you only want to use the demo homepage layouts with your existing content, please consider importing Elementor Templates following the theme's documentation."
+msgstr "Proses ini akan mengimpor semua konten demo (posting, halaman, kategori, tag, penulis, .etc) ke situs Anda. Jika Anda hanya ingin menggunakan tata letak beranda demo dengan konten yang ada, harap pertimbangkan untuk mengimpor Template Elementor mengikuti dokumentasi tema."
+
+#: inc/ocdi-configs.php:21
+#: inc/ocdi-configs.php:34
+msgid "Please make sure you've installed all the required plugins before importing demo content."
+msgstr "Pastikan Anda telah menginstal semua plugin yang diperlukan sebelum mengimpor konten demo."
+
+#: inc/theme-custom-acf.php:11
+msgid "Post format: Audio"
+msgstr "Format posting: Audio"
+
+#: inc/theme-custom-acf.php:15
+msgid "Audio URL to embed. You can find all the supported sites here:"
+msgstr "URL audio untuk disematkan. Anda dapat menemukan semua situs yang didukung di sini:"
+
+#: inc/theme-custom-acf.php:23
+msgid "Or you can upload your own audio file:"
+msgstr "Atau Anda dapat mengunggah file audio Anda sendiri:"
+
+#: inc/theme-custom-acf.php:45
+msgid "Post format: Video"
+msgstr "Format posting: Video"
+
+#: inc/theme-custom-acf.php:49
+msgid "Video URL"
+msgstr "URL video"
+
+#: inc/theme-custom-acf.php:69
+msgid "Post format: Gallery"
+msgstr "Format posting: Galeri"
+
+#: inc/theme-custom-acf.php:73
+msgid "Gallery"
+msgstr "Galeri"
+
+#: inc/theme-custom-acf.php:91
+msgid "Post format: Image"
+msgstr "Format posting: Gambar"
+
+#: inc/theme-custom-acf.php:95
+msgid "Image"
+msgstr "Gambar"
+
+#: inc/theme-custom-acf.php:114
+#: inc/theme-custom-acf.php:220
+msgid "Narasix's settings"
+msgstr "pengaturan Narasix"
+
+#: inc/theme-custom-acf.php:131
+msgid "Post header layout"
+msgstr "Tata letak tajuk pos"
+
+#: inc/theme-custom-acf.php:135
+#: inc/theme-custom-acf.php:151
+#: inc/theme-custom-acf.php:183
+#: inc/theme-custom-acf.php:196
+msgid "Global setting"
+msgstr "Pengaturan global"
+
+#: inc/theme-custom-acf.php:136
+msgid "Thumbnail Top"
+msgstr "Gambar kecil Atas"
+
+#: inc/theme-custom-acf.php:137
+#: inc/theme-customizer.php:1886
+msgid "Title top"
+msgstr "Judul atas"
+
+#: inc/theme-custom-acf.php:138
+#: inc/theme-customizer.php:1887
+msgid "Overlay"
+msgstr "Hamparan"
+
+#: inc/theme-custom-acf.php:139
+#: inc/theme-customizer.php:1888
+msgid "Split"
+msgstr "Membelah"
+
+#: inc/theme-custom-acf.php:140
+#: inc/theme-customizer.php:1889
+msgid "No featured image"
+msgstr "Tidak ada gambar unggulan"
+
+#: inc/theme-custom-acf.php:147
+#: inc/theme-customizer.php:1906
+msgid "Center header"
+msgstr "Tajuk tengah"
+
+#: inc/theme-custom-acf.php:152
+#: inc/theme-custom-acf.php:184
+#: inc/theme-custom-acf.php:197
+#: inc/theme-custom-acf.php:228
+#: inc/theme-customizer.php:179
+#: inc/theme-customizer.php:191
+#: inc/theme-customizer.php:291
+#: inc/theme-customizer.php:303
+#: inc/theme-customizer.php:542
+#: inc/theme-customizer.php:596
+#: inc/theme-customizer.php:608
+#: inc/theme-customizer.php:669
+#: inc/theme-customizer.php:681
+#: inc/theme-customizer.php:785
+#: inc/theme-customizer.php:860
+#: inc/theme-customizer.php:930
+#: inc/theme-customizer.php:982
+#: inc/theme-customizer.php:1063
+#: inc/theme-customizer.php:1075
+#: inc/theme-customizer.php:1175
+#: inc/theme-customizer.php:1271
+#: inc/theme-customizer.php:1283
+#: inc/theme-customizer.php:1427
+#: inc/theme-customizer.php:1439
+#: inc/theme-customizer.php:1583
+#: inc/theme-customizer.php:1595
+#: inc/theme-customizer.php:1739
+#: inc/theme-customizer.php:1751
+#: inc/theme-customizer.php:1899
+#: inc/theme-customizer.php:1910
+#: inc/theme-customizer.php:1922
+#: inc/theme-customizer.php:1934
+#: inc/theme-customizer.php:1994
+#: inc/theme-customizer.php:2013
+#: inc/theme-customizer.php:2068
+#: inc/theme-customizer.php:2080
+#: inc/theme-customizer.php:2098
+#: inc/theme-customizer.php:2149
+#: inc/theme-customizer.php:2466
+#: inc/theme-customizer.php:2561
+msgid "Yes"
+msgstr "Ya"
+
+#: inc/theme-custom-acf.php:153
+#: inc/theme-custom-acf.php:185
+#: inc/theme-custom-acf.php:198
+#: inc/theme-custom-acf.php:229
+#: inc/theme-customizer.php:180
+#: inc/theme-customizer.php:192
+#: inc/theme-customizer.php:292
+#: inc/theme-customizer.php:304
+#: inc/theme-customizer.php:543
+#: inc/theme-customizer.php:597
+#: inc/theme-customizer.php:609
+#: inc/theme-customizer.php:670
+#: inc/theme-customizer.php:682
+#: inc/theme-customizer.php:786
+#: inc/theme-customizer.php:861
+#: inc/theme-customizer.php:931
+#: inc/theme-customizer.php:983
+#: inc/theme-customizer.php:1064
+#: inc/theme-customizer.php:1076
+#: inc/theme-customizer.php:1176
+#: inc/theme-customizer.php:1272
+#: inc/theme-customizer.php:1284
+#: inc/theme-customizer.php:1428
+#: inc/theme-customizer.php:1440
+#: inc/theme-customizer.php:1584
+#: inc/theme-customizer.php:1596
+#: inc/theme-customizer.php:1740
+#: inc/theme-customizer.php:1752
+#: inc/theme-customizer.php:1900
+#: inc/theme-customizer.php:1911
+#: inc/theme-customizer.php:1923
+#: inc/theme-customizer.php:1935
+#: inc/theme-customizer.php:1995
+#: inc/theme-customizer.php:2014
+#: inc/theme-customizer.php:2069
+#: inc/theme-customizer.php:2081
+#: inc/theme-customizer.php:2099
+#: inc/theme-customizer.php:2150
+#: inc/theme-customizer.php:2467
+#: inc/theme-customizer.php:2562
+msgid "No"
+msgstr "Tidak"
+
+#: inc/theme-custom-acf.php:179
+msgid "Display excerpt"
+msgstr "Menampilkan kutipan"
+
+#: inc/theme-custom-acf.php:192
+msgid "Display Table of Content"
+msgstr "Menampilkan Daftar Isi"
+
+#: inc/theme-custom-acf.php:224
+msgid "Hide page header"
+msgstr "Sembunyikan tajuk halaman"
+
+#: inc/theme-custom-acf.php:249
+msgid "Narasix's setting"
+msgstr "Pengaturan Narasix"
+
+#: inc/theme-customizer.php:13
+msgid "Narasix Settings"
+msgstr "Pengaturan Narasix"
+
+#: inc/theme-customizer.php:134
+msgid "General"
+msgstr "Umum"
+
+#: inc/theme-customizer.php:141
+msgid "Content Layout Width"
+msgstr "Lebar Tata Letak Konten"
+
+#: inc/theme-customizer.php:145
+#: inc/theme-customizer.php:1136
+#: inc/theme-customizer.php:1344
+#: inc/theme-customizer.php:1500
+#: inc/theme-customizer.php:1656
+#: inc/theme-customizer.php:1812
+#: inc/theme-customizer.php:2118
+msgid "Default"
+msgstr "Bawaan"
+
+#: inc/theme-customizer.php:146
+msgid "Full-width"
+msgstr "Lebar penuh"
+
+#: inc/theme-customizer.php:153
+msgid "Main Background"
+msgstr "Latar Belakang Utama"
+
+#: inc/theme-customizer.php:174
+msgid "Thumbnail Default"
+msgstr "Default Gambar Kecil"
+
+#: inc/theme-customizer.php:175
+msgid "Display default thumbnail"
+msgstr "Tampilkan thumbnail default"
+
+#: inc/theme-customizer.php:187
+msgid "Dark Mode"
+msgstr "Mode Gelap"
+
+#: inc/theme-customizer.php:199
+msgid "Light Mode Background"
+msgstr "Latar Belakang Mode Cahaya"
+
+#: inc/theme-customizer.php:200
+#: inc/theme-customizer.php:222
+#: inc/theme-customizer.php:244
+#: inc/theme-customizer.php:266
+msgid "Make sure white text is legible on elements that has this background color."
+msgstr "Pastikan teks putih dapat terbaca pada elemen yang memiliki warna latar belakang ini."
+
+#: inc/theme-customizer.php:221
+msgid "Light Mode Text"
+msgstr "Teks Mode Ringan"
+
+#: inc/theme-customizer.php:243
+msgid "Dark Mode Background"
+msgstr "Latar Belakang Mode Gelap"
+
+#: inc/theme-customizer.php:265
+msgid "Dark Mode Text"
+msgstr "Teks Mode Gelap"
+
+#: inc/theme-customizer.php:287
+msgid "Sticky sidebar"
+msgstr "Bilah sisi lengket"
+
+#: inc/theme-customizer.php:299
+msgid "Display Back to top button"
+msgstr "Menampilkan tombol Kembali ke atas"
+
+#: inc/theme-customizer.php:311
+msgid "Custom Background"
+msgstr "Latar belakang kustom"
+
+#: inc/theme-customizer.php:333
+msgid "Typography"
+msgstr "Tipografi"
+
+#: inc/theme-customizer.php:334
+msgid "It is recommended to use maximum 3 different Google font families for better page load speed."
+msgstr "Disarankan untuk menggunakan maksimal 3 keluarga font Google yang berbeda untuk kecepatan memuat halaman yang lebih baik."
+
+#: inc/theme-customizer.php:341
+msgid "Body"
+msgstr "Tubuh"
+
+#: inc/theme-customizer.php:372
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: inc/theme-customizer.php:399
+msgid "Heading"
+msgstr "Menuju"
+
+#: inc/theme-customizer.php:428
+msgid "Meta Heading"
+msgstr "Tajuk Meta"
+
+#: inc/theme-customizer.php:457
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/theme-customizer.php:487
+msgid "Header"
+msgstr "Tajuk"
+
+#: inc/theme-customizer.php:494
+msgid "Header Layout"
+msgstr "Tata Letak Tajuk"
+
+#: inc/theme-customizer.php:500
+msgid "Header 3"
+msgstr "Tajuk 3"
+
+#: inc/theme-customizer.php:507
+msgid "Header Button"
+msgstr "Tombol Tajuk"
+
+#: inc/theme-customizer.php:523
+msgid "Url Button"
+msgstr "Tombol Url"
+
+#: inc/theme-customizer.php:538
+msgid "Custom Background Colors header"
+msgstr "Tajuk Warna Latar Belakang Kustom"
+
+#: inc/theme-customizer.php:550
+msgid "Header Background Light"
+msgstr "Cahaya Latar Belakang Tajuk"
+
+#: inc/theme-customizer.php:571
+msgid "Header Background Dark"
+msgstr "Latar Belakang Tajuk Gelap"
+
+#: inc/theme-customizer.php:592
+msgid "Sticky header desktop"
+msgstr "Desktop tajuk lengket"
+
+#: inc/theme-customizer.php:604
+msgid "Sticky header mobile"
+msgstr "Ponsel tajuk lengket"
+
+#: inc/theme-customizer.php:623
+msgid "Header Sticky Background Light"
+msgstr "Header Sticky Background Light"
+
+#: inc/theme-customizer.php:644
+msgid "Header Sticky Background Dark"
+msgstr "Tajuk Latar Belakang Lengket Gelap"
+
+#: inc/theme-customizer.php:665
+msgid "Uppercase menu items"
+msgstr "Item menu huruf besar"
+
+#: inc/theme-customizer.php:677
+msgid "Show login button"
+msgstr "Tampilkan tombol masuk"
+
+#: inc/theme-customizer.php:689
+msgid "Login button's URL"
+msgstr "URL tombol masuk"
+
+#: inc/theme-customizer.php:690
+msgid "Link to your login page. Leave empty if you want to use the default login popup"
+msgstr "Tautkan ke halaman login Anda. Biarkan kosong jika Anda ingin menggunakan popup login default"
+
+#: inc/theme-customizer.php:705
+msgid "Header logo"
+msgstr "Logo tajuk"
+
+#: inc/theme-customizer.php:706
+#: inc/theme-customizer.php:825
+msgid "Logo images' dimensions should double the dimensions specified below for displaying on hi-DPI devices."
+msgstr "Dimensi gambar logo harus menggandakan dimensi yang ditentukan di bawah untuk ditampilkan di perangkat hi-DPI."
+
+#: inc/theme-customizer.php:717
+msgid "Offcanvas menu logo"
+msgstr "Logo menu di luar kanvas"
+
+#: inc/theme-customizer.php:736
+msgid "Footer Layout"
+msgstr "Tata Letak Footer"
+
+#: inc/theme-customizer.php:740
+msgid "Layout 1"
+msgstr "Tata letak 1"
+
+#: inc/theme-customizer.php:741
+msgid "Layout 2"
+msgstr "Tata letak 2"
+
+#: inc/theme-customizer.php:742
+msgid "Layout 3"
+msgstr "Tata letak 3"
+
+#: inc/theme-customizer.php:749
+msgid "Footer about Heading"
+msgstr "Footer tentang Tajuk"
+
+#: inc/theme-customizer.php:765
+msgid "Footer about"
+msgstr "Footer tentang"
+
+#: inc/theme-customizer.php:781
+msgid "Display form subscribe"
+msgstr "Tampilan formulir berlangganan"
+
+#: inc/theme-customizer.php:800
+msgid "MailChimp Form Url"
+msgstr "Url Formulir MailChimp"
+
+#: inc/theme-customizer.php:824
+msgid "Footer logo"
+msgstr "Logo kaki"
+
+#: inc/theme-customizer.php:836
+msgid "Footer logo's height (in px)"
+msgstr "Tinggi logo footer (dalam px)"
+
+#: inc/theme-customizer.php:856
+msgid "Footer Background"
+msgstr "Latar Belakang Footer"
+
+#: inc/theme-customizer.php:868
+msgid "Footer Background Light"
+msgstr "Cahaya Latar Belakang Footer"
+
+#: inc/theme-customizer.php:889
+msgid "Footer Background Dark"
+msgstr "Latar Belakang Footer Gelap"
+
+#: inc/theme-customizer.php:910
+msgid "Footer copyright"
+msgstr "hak cipta footer"
+
+#: inc/theme-customizer.php:926
+msgid "Display social media urls"
+msgstr "Tampilkan url media sosial"
+
+#: inc/theme-customizer.php:946
+msgid "Blog and Archives"
+msgstr "Blog dan Arsip"
+
+#: inc/theme-customizer.php:966
+msgid "Header Blog & Archive"
+msgstr "Tajuk Blog & Arsip"
+
+#: inc/theme-customizer.php:970
+#: inc/theme-customizer.php:1983
+msgid "Style 1"
+msgstr "Gaya 1"
+
+#: inc/theme-customizer.php:971
+#: inc/theme-customizer.php:1984
+msgid "Style 2"
+msgstr "Gaya 2"
+
+#: inc/theme-customizer.php:978
+#: inc/theme-customizer.php:1895
+#: inc/theme-customizer.php:1990
+msgid "Display breadcrumb"
+msgstr "Menampilkan remah roti"
+
+#: inc/theme-customizer.php:991
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/theme-customizer.php:998
+msgid "Blog layout"
+msgstr "Tata letak blog"
+
+#: inc/theme-customizer.php:1001
+#: inc/theme-customizer.php:1157
+#: inc/theme-customizer.php:1365
+#: inc/theme-customizer.php:1521
+#: inc/theme-customizer.php:1677
+msgid "List - Landscape"
+msgstr "Daftar - Pemandangan"
+
+#: inc/theme-customizer.php:1002
+#: inc/theme-customizer.php:1158
+#: inc/theme-customizer.php:1366
+#: inc/theme-customizer.php:1522
+#: inc/theme-customizer.php:1678
+msgid "List - Landscape - No sidebar"
+msgstr "Daftar - Lanskap - Tanpa sidebar"
+
+#: inc/theme-customizer.php:1003
+#: inc/theme-customizer.php:1159
+#: inc/theme-customizer.php:1367
+#: inc/theme-customizer.php:1523
+#: inc/theme-customizer.php:1679
+msgid "Mixed 1"
+msgstr "Campuran 1"
+
+#: inc/theme-customizer.php:1004
+#: inc/theme-customizer.php:1160
+#: inc/theme-customizer.php:1368
+#: inc/theme-customizer.php:1524
+#: inc/theme-customizer.php:1680
+msgid "Mixed 2"
+msgstr "Campuran 2"
+
+#: inc/theme-customizer.php:1005
+#: inc/theme-customizer.php:1161
+#: inc/theme-customizer.php:1369
+#: inc/theme-customizer.php:1525
+#: inc/theme-customizer.php:1681
+msgid "Grid - Portrait"
+msgstr "Kisi - Potret"
+
+#: inc/theme-customizer.php:1006
+#: inc/theme-customizer.php:1162
+#: inc/theme-customizer.php:1370
+#: inc/theme-customizer.php:1526
+#: inc/theme-customizer.php:1682
+msgid "Grid - Portrait - No sidebar"
+msgstr "Kisi - Potret - Tanpa sidebar"
+
+#: inc/theme-customizer.php:1007
+#: inc/theme-customizer.php:1163
+#: inc/theme-customizer.php:1371
+#: inc/theme-customizer.php:1527
+#: inc/theme-customizer.php:1683
+msgid "Masonry - Portrait"
+msgstr "Masonry - Potret"
+
+#: inc/theme-customizer.php:1015
+#: inc/theme-customizer.php:1223
+#: inc/theme-customizer.php:1379
+#: inc/theme-customizer.php:1535
+#: inc/theme-customizer.php:1691
+#: inc/theme-customizer.php:1862
+#: inc/theme-customizer.php:1961
+msgid "Sidebar"
+msgstr "Bilah samping"
+
+#: inc/theme-customizer.php:1037
+#: inc/theme-customizer.php:1245
+#: inc/theme-customizer.php:1401
+#: inc/theme-customizer.php:1557
+#: inc/theme-customizer.php:1713
+msgid "Display mobile columns"
+msgstr "Tampilkan kolom seluler"
+
+#: inc/theme-customizer.php:1040
+#: inc/theme-customizer.php:1248
+#: inc/theme-customizer.php:1404
+#: inc/theme-customizer.php:1560
+#: inc/theme-customizer.php:1716
+msgid "1"
+msgstr "1"
+
+#: inc/theme-customizer.php:1041
+#: inc/theme-customizer.php:1249
+#: inc/theme-customizer.php:1405
+#: inc/theme-customizer.php:1561
+#: inc/theme-customizer.php:1717
+msgid "2"
+msgstr "2"
+
+#: inc/theme-customizer.php:1060
+#: inc/theme-customizer.php:1268
+#: inc/theme-customizer.php:1424
+#: inc/theme-customizer.php:1580
+#: inc/theme-customizer.php:1736
+msgid "Display post format icon"
+msgstr "Tampilkan ikon format pos"
+
+#: inc/theme-customizer.php:1072
+#: inc/theme-customizer.php:1280
+#: inc/theme-customizer.php:1436
+#: inc/theme-customizer.php:1592
+#: inc/theme-customizer.php:1748
+msgid "Custom excerpt length"
+msgstr "Panjang kutipan khusus"
+
+#: inc/theme-customizer.php:1098
+#: inc/theme-customizer.php:1306
+#: inc/theme-customizer.php:1462
+#: inc/theme-customizer.php:1618
+#: inc/theme-customizer.php:1774
+msgid "Excerpt length (in words)"
+msgstr "Panjang kutipan (dalam kata-kata)"
+
+#: inc/theme-customizer.php:1133
+#: inc/theme-customizer.php:1341
+#: inc/theme-customizer.php:1497
+#: inc/theme-customizer.php:1653
+#: inc/theme-customizer.php:1809
+msgid "Pagination"
+msgstr "Paginasi"
+
+#: inc/theme-customizer.php:1137
+#: inc/theme-customizer.php:1345
+#: inc/theme-customizer.php:1501
+#: inc/theme-customizer.php:1657
+#: inc/theme-customizer.php:1813
+msgid "Next and Previous"
+msgstr "Berikutnya dan Sebelumnya"
+
+#: inc/theme-customizer.php:1147
+msgid "Author Archive"
+msgstr "Arsip pengarang"
+
+#: inc/theme-customizer.php:1154
+msgid "Author layout"
+msgstr "Tata letak penulis"
+
+#: inc/theme-customizer.php:1171
+msgid "Author Background"
+msgstr "Latar Belakang Pengarang"
+
+#: inc/theme-customizer.php:1183
+msgid "Author Background Light"
+msgstr "Cahaya Latar Belakang Penulis"
+
+#: inc/theme-customizer.php:1203
+msgid "Author Background Dark"
+msgstr "Latar Belakang Penulis Gelap"
+
+#: inc/theme-customizer.php:1355
+msgid "Category Archive"
+msgstr "Arsip Kategori"
+
+#: inc/theme-customizer.php:1362
+msgid "Category layout"
+msgstr "Tata letak kategori"
+
+#: inc/theme-customizer.php:1511
+msgid "Search Archive"
+msgstr "Cari Arsip"
+
+#: inc/theme-customizer.php:1518
+msgid "Search layout"
+msgstr "Tata letak pencarian"
+
+#: inc/theme-customizer.php:1667
+msgid "Tag Archive"
+msgstr "Arsip Tag"
+
+#: inc/theme-customizer.php:1674
+msgid "Tag layout"
+msgstr "Tata letak tag"
+
+#: inc/theme-customizer.php:1823
+msgid "Single Posts and Pages"
+msgstr "Posting dan Halaman Tunggal"
+
+#: inc/theme-customizer.php:1842
+msgid "Single Post"
+msgstr "Pos Tunggal"
+
+#: inc/theme-customizer.php:1849
+msgid "Post layout"
+msgstr "Tata letak pos"
+
+#: inc/theme-customizer.php:1853
+#: inc/theme-customizer.php:1953
+msgid "Layout no Sidebar"
+msgstr "Tata Letak tanpa Sidebar"
+
+#: inc/theme-customizer.php:1854
+msgid "Layout With Sidebar 1"
+msgstr "Tata Letak Dengan Sidebar 1"
+
+#: inc/theme-customizer.php:1855
+msgid "Layout With Sidebar 2"
+msgstr "Tata Letak Dengan Bilah Samping 2"
+
+#: inc/theme-customizer.php:1881
+msgid "Single post header layout"
+msgstr "Tata letak tajuk posting tunggal"
+
+#: inc/theme-customizer.php:1885
+msgid "Thumbnail top"
+msgstr "Gambar kecil atas"
+
+#: inc/theme-customizer.php:1918
+msgid "Display excerpt as div's lead"
+msgstr "Tampilkan kutipan sebagai lead artikel"
+
+#: inc/theme-customizer.php:1930
+msgid "Display updated date"
+msgstr "Tampilkan tanggal yang diperbarui"
+
+#: inc/theme-customizer.php:1942
+msgid "Page"
+msgstr "Halaman"
+
+#: inc/theme-customizer.php:1949
+msgid "Page layout"
+msgstr "Tata letak halaman"
+
+#: inc/theme-customizer.php:1954
+msgid "Layout With Sidebar"
+msgstr "Tata Letak Dengan Bilah Samping"
+
+#: inc/theme-customizer.php:1979
+msgid "Page header layout"
+msgstr "Tata letak tajuk halaman"
+
+#: inc/theme-customizer.php:2002
+msgid "Social share"
+msgstr "Berbagi sosial"
+
+#: inc/theme-customizer.php:2009
+msgid "Display social share"
+msgstr "Tampilkan berbagi sosial"
+
+#: inc/theme-customizer.php:2021
+msgid "Enable/disable your social share buttons and arrange their orders:"
+msgstr "Aktifkan/nonaktifkan tombol berbagi sosial Anda dan atur urutannya:"
+
+#: inc/theme-customizer.php:2032
+msgid "Email"
+msgstr "Surel"
+
+#: inc/theme-customizer.php:2057
+msgid "Author box"
+msgstr "Kotak penulis"
+
+#: inc/theme-customizer.php:2064
+msgid "Display author box"
+msgstr "Tampilkan kotak penulis"
+
+#: inc/theme-customizer.php:2076
+msgid "Display author's info"
+msgstr "Tampilkan info penulis"
+
+#: inc/theme-customizer.php:2087
+#: inc/theme-customizer.php:2108
+#: template-parts/single/component/related-carousel.php:6
+#: template-parts/single/component/related.php:6
+msgid "Related posts"
+msgstr "Pos terkait"
+
+#: inc/theme-customizer.php:2094
+msgid "Display related posts"
+msgstr "Tampilkan posting terkait"
+
+#: inc/theme-customizer.php:2106
+msgid "Related posts section's heading"
+msgstr "Judul bagian posting terkait"
+
+#: inc/theme-customizer.php:2114
+msgid "Related posts style"
+msgstr "Gaya posting terkait"
+
+#: inc/theme-customizer.php:2119
+msgid "Card"
+msgstr "Kartu"
+
+#: inc/theme-customizer.php:2120
+msgid "Cover"
+msgstr "Menutupi"
+
+#: inc/theme-customizer.php:2127
+msgid "Post order"
+msgstr "Pesan pos"
+
+#: inc/theme-customizer.php:2131
+msgid "Latest"
+msgstr "Terbaru"
+
+#: inc/theme-customizer.php:2132
+msgid "Random"
+msgstr "Acak"
+
+#: inc/theme-customizer.php:2138
+msgid "Table of Content posts"
+msgstr "Daftar Isi posting"
+
+#: inc/theme-customizer.php:2145
+msgid "Display table of content posts"
+msgstr "Menampilkan daftar isi postingan"
+
+#: inc/theme-customizer.php:2157
+msgid "Headline"
+msgstr "Judul"
+
+#: inc/theme-customizer.php:2159
+msgid "Table of Content"
+msgstr "Daftar Isi"
+
+#: inc/theme-customizer.php:2167
+msgid "Social Media"
+msgstr "Media sosial"
+
+#: inc/theme-customizer.php:2168
+msgid "Enter full URLs of your social media sites below."
+msgstr "Masukkan URL lengkap situs media sosial Anda di bawah ini."
+
+#: inc/theme-customizer.php:2359
+msgid "Enable/disable your social media sites and their orders:"
+msgstr "Aktifkan/nonaktifkan situs media sosial Anda dan pesanannya:"
+
+#: inc/theme-customizer.php:2397
+msgid "Open URLs in a new tab"
+msgstr "Buka URL di tab baru"
+
+#: inc/theme-customizer.php:2401
+#: inc/theme-customizer.php:2413
+msgid "On"
+msgstr "Pada"
+
+#: inc/theme-customizer.php:2402
+#: inc/theme-customizer.php:2414
+msgid "Off"
+msgstr "Mati"
+
+#: inc/theme-customizer.php:2409
+msgid "Add nofollow attribute to URLs"
+msgstr "Tambahkan atribut nofollow ke URL"
+
+#: inc/theme-customizer.php:2429
+msgid "404 Page"
+msgstr "404 Halaman"
+
+#: inc/theme-customizer.php:2436
+msgid "Title"
+msgstr "Judul"
+
+#: inc/theme-customizer.php:2445
+#: inc/theme-customizer.php:2474
+msgid "Body text"
+msgstr "Teks isi"
+
+#: inc/theme-customizer.php:2447
+msgid "The page you were looking for could not be found.<br/> It might have been removed, renamed, or did not exist in the first place."
+msgstr "Halaman yang Anda cari tidak dapat ditemukan.<br/> Halaman tersebut mungkin telah dihapus, diganti namanya, atau tidak ada sejak awal."
+
+#: inc/theme-customizer.php:2455
+msgid "Cookie"
+msgstr "Kue kering"
+
+#: inc/theme-customizer.php:2462
+msgid "Display Cookie"
+msgstr "Tampilan Cookie"
+
+#: inc/theme-customizer.php:2476
+msgid "We rely on Cookies to Provide Better User Experience"
+msgstr "Kami mengandalkan Cookie untuk Memberikan Pengalaman Pengguna yang Lebih Baik"
+
+#: inc/theme-customizer.php:2483
+msgid "Learn More"
+msgstr "Belajarlah lagi"
+
+#: inc/theme-customizer.php:2492
+msgid "Url Page Cookie"
+msgstr "Cookie Halaman Url"
+
+#: inc/theme-customizer.php:2507
+msgid "Ad Settings"
+msgstr "Pengaturan Iklan"
+
+#: inc/theme-customizer.php:2514
+msgid "Data Ad Client"
+msgstr "Klien Iklan Data"
+
+#: inc/theme-customizer.php:2525
+msgid "Top"
+msgstr "Atas"
+
+#: inc/theme-customizer.php:2526
+#: inc/theme-customizer.php:2535
+#: inc/theme-customizer.php:2544
+msgid "Insert Ad Code"
+msgstr "Masukkan Kode Iklan"
+
+#: inc/theme-customizer.php:2534
+msgid "Middle"
+msgstr "Tengah"
+
+#: inc/theme-customizer.php:2543
+msgid "Bottom"
+msgstr "Bawah"
+
+#: inc/theme-customizer.php:2550
+msgid "Sinlge Post"
+msgstr "Pos Tunggal"
+
+#: inc/theme-customizer.php:2557
+msgid "Enable Ads"
+msgstr "Aktifkan Iklan"
+
+#: inc/theme-customizer.php:2569
+msgid "Ad Code"
+msgstr "Kode Iklan"
+
+#: inc/theme-customizer.php:2577
+msgid "Insert ad after paragraph"
+msgstr "Sisipkan iklan setelah paragraf"
+
+#. translators: 1: sidebar's name
+#: index.php:69
+msgid "Place widgets in %1$s widget area to make them appear here"
+msgstr "Tempatkan widget di area widget %1$s agar muncul di sini"
+
+#. Template Name of the theme
+#: 
+msgid "Narasix Blank Page"
+msgstr "Halaman Kosong Narasix"
+
+#: searchform.php:2
+#: searchform.php:6
+msgctxt "label"
+msgid "Search for:"
+msgstr "Pencarian untuk:"
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search …"
+msgstr "Mencari …"
+
+#: searchform.php:8
+#: template-parts/header/component/navigation-top.php:37
+#: template-parts/header/header-layout-c.php:45
+#: template-parts/header/header-mobile.php:27
+#: template-parts/header/header-sticky.php:42
+msgid "Search"
+msgstr "Mencari"
+
+#: template-parts/block/block-carousel-b.php:86
+#: template-parts/block/block-listing.php:84
+#: template-parts/block/block-listing.php:138
+#: template-parts/block/block-post-a.php:39
+#: template-parts/block/block-post-b.php:43
+#: template-parts/block/block-post-c.php:39
+#: template-parts/block/block-post-d.php:31
+#: template-parts/block/block-post-popular-carousel.php:132
+#: template-parts/block/block-post-popular-grid.php:120
+#: template-parts/page/header/page-header-a.php:56
+#: template-parts/page/header/page-header-b.php:57
+msgid " - Page "
+msgstr " - Halaman "
+
+#: template-parts/block/block-hero-post-default.php:78
+#: template-parts/block/block-hero-post-default.php:126
+msgid "Read more"
+msgstr "Baca lebih banyak"
+
+#: template-parts/content/content-landscape-auto.php:58
+msgid "READ BLOG"
+msgstr "BACA BLOG"
+
+#: template-parts/footer/footer-layout-b.php:38
+#: template-parts/footer/footer-layout-c.php:12
+msgid "Footer Menu"
+msgstr "Menu Kaki"
+
+#: template-parts/header/component/header-login.php:11
+#: template-parts/header/component/navigation-canvas.php:83
+#: template-parts/header/component/navigation-top.php:50
+#: template-parts/header/header-layout-b.php:57
+#: template-parts/header/header-layout-c.php:58
+#: template-parts/header/header-sticky.php:55
+#: template-parts/misc/popup-login.php:7
+msgid "Login"
+msgstr "Gabung"
+
+#: template-parts/header/component/header-login.php:12
+#: template-parts/misc/popup-login.php:8
+msgid "Close"
+msgstr "Menutup"
+
+#: template-parts/header/component/header-login.php:39
+#: template-parts/misc/popup-login.php:35
+msgid "Forgot Password"
+msgstr "Tidak ingat kata sandi"
+
+#: template-parts/header/component/header-login.php:39
+#: template-parts/misc/popup-login.php:35
+msgid "Forgot Password ?"
+msgstr "Tidak ingat kata sandi ?"
+
+#: template-parts/header/component/header-search.php:25
+msgid "Result"
+msgstr "Hasil"
+
+#: template-parts/header/component/navigation-top.php:32
+#: template-parts/header/header-layout-b.php:39
+#: template-parts/header/header-layout-c.php:40
+#: template-parts/header/header-mobile.php:22
+#: template-parts/header/header-sticky.php:37
+msgid "Darkmode Toggle Button"
+msgstr "Tombol Beralih Mode Gelap"
+
+#: template-parts/misc/author-box.php:35
+msgid "Written by"
+msgstr "Ditulis oleh"
+
+#: template-parts/page/content.php:16
+#: template-parts/page/content.php:18
+#: template-parts/single/content.php:46
+#: template-parts/single/content.php:48
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: template-parts/page/header/page-header-a.php:9
+#: template-parts/page/header/page-header-b.php:9
+msgid "Latest Posts"
+msgstr "Posting Terbaru"
+
+#: template-parts/page/header/page-header-a.php:21
+#: template-parts/page/header/page-header-b.php:21
+msgid "Search:"
+msgstr "Mencari:"
+
+#: template-parts/page/header/page-header-a.php:29
+#: template-parts/page/header/page-header-b.php:29
+msgid "We found %s result for your search."
+msgstr "Kami menemukan hasil %s untuk pencarian Anda."
+
+#: template-parts/page/header/page-header-a.php:30
+#: template-parts/page/header/page-header-b.php:30
+msgid "We found %s results for your search."
+msgstr "Kami menemukan %s hasil untuk pencarian Anda."
+
+#: template-parts/page/header/page-header-a.php:37
+#: template-parts/page/header/page-header-b.php:37
+msgid "We could not find any results for your search."
+msgstr "Kami tidak dapat menemukan hasil apa pun untuk pencarian Anda."
+
+#: template-parts/single/component/social-share.php:16
+msgid "Share"
+msgstr "Membagikan"
+
+#: template-parts/single/content.php:62
+msgid "Filed under :"
+msgstr "Diarsipkan di bawah:"
+
+#: template-parts/single/content.php:76
+msgid "Tags :"
+msgstr "Tag :"
+

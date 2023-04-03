@@ -1,0 +1,1326 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Ns\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Theme Name of the theme
+#: 
+msgid "Narasix"
+msgstr "Narasix"
+
+#. Theme URI of the theme
+#: 
+msgid "http://demo.hidunks.com/narasix"
+msgstr "http://demo.hidunks.com/narasix"
+
+#. Description of the theme
+#: 
+msgid "A WordPress Blog/Magazine theme for Digital Narasix by hidunks"
+msgstr "Ein WordPress Blog/Magazin-Theme für digitale narasixen von hidunks"
+
+#. Author of the theme
+#: 
+msgid "hidunks"
+msgstr "versteckt"
+
+#. Author URI of the theme
+#: 
+msgid "#"
+msgstr "#"
+
+#: 404.php:8
+msgid "Page not found"
+msgstr "Seite nicht gefunden"
+
+#: attachment.php:62
+msgid "Download"
+msgstr "Herunterladen"
+
+#: author.php:38
+#: template-parts/content/content-slider-b.php:40
+#: template-parts/misc/author-box.php:31
+#: template-parts/single/header/single-header-overlay.php:79
+#: template-parts/single/header/single-header-split.php:188
+#: template-parts/single/header/single-header-thumbnail-no.php:76
+#: template-parts/single/header/single-header-thumbnail-top.php:192
+#: template-parts/single/header/single-header-title-top.php:101
+msgid "avatar"
+msgstr "Avatar"
+
+#: author.php:50
+msgid "Posts created: "
+msgstr "Erstellte Beiträge: "
+
+#: author.php:79
+#: author.php:103
+#: template-parts/page/header/page-header-a.php:40
+#: template-parts/page/header/page-header-b.php:40
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:28
+msgctxt "comments title"
+msgid "There is %1$s comment"
+msgid_plural "There are %1$s comments"
+msgstr[0] "Es gibt %1$s Kommentar"
+msgstr[1] ""
+
+#: comments.php:48
+msgid "Reply"
+msgstr "Antwort"
+
+#: comments.php:54
+#: template-parts/single/content.php:103
+msgid "Previous"
+msgstr "Vorherige"
+
+#: comments.php:55
+#: template-parts/single/content.php:104
+msgid "Next"
+msgstr "Weiter"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: footer.php:44
+msgid "Back to top"
+msgstr "Zurück zum Anfang"
+
+#: functions.php:137
+#: inc/theme-customizer.php:498
+msgid "Header 1"
+msgstr "Kopfzeile 1"
+
+#: functions.php:138
+#: inc/theme-customizer.php:499
+msgid "Header 2"
+msgstr "Kopfzeile 2"
+
+#: functions.php:139
+msgid "Off Canvas"
+msgstr "Aus Leinwand"
+
+#: functions.php:140
+#: inc/theme-customizer.php:729
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: functions.php:153
+msgid "Skip to the content"
+msgstr "Zum Inhalt springen"
+
+#: functions.php:178
+msgid "Default Sidebar"
+msgstr "Standard-Seitenleiste"
+
+#: functions.php:180
+msgid "Add widgets here to display them in your sidebar on blog posts and archive pages."
+msgstr "Fügen Sie hier Widgets hinzu, um sie in Ihrer Seitenleiste auf Blogbeiträgen und Archivseiten anzuzeigen."
+
+#: functions.php:189
+msgid "Page Sidebar"
+msgstr "Seite Seitenleiste"
+
+#: functions.php:191
+msgid "Add widgets here to display them in your pages."
+msgstr "Fügen Sie hier Widgets hinzu, um sie auf Ihren Seiten anzuzeigen."
+
+#: functions.php:200
+msgid "Footer 1"
+msgstr "Fußzeile 1"
+
+#: functions.php:202
+#: functions.php:213
+#: functions.php:224
+#: functions.php:235
+msgid "Add widgets here to display them in site footer."
+msgstr "Fügen Sie hier Widgets hinzu, um sie in der Fußzeile der Website anzuzeigen."
+
+#: functions.php:211
+msgid "Footer 2"
+msgstr "Fußzeile 2"
+
+#: functions.php:222
+msgid "Footer 3"
+msgstr "Fußzeile 3"
+
+#: functions.php:233
+msgid "Footer 4"
+msgstr "Fußzeile 4"
+
+#: functions.php:333
+msgid "Error loading posts"
+msgstr "Fehler beim Laden von Beiträgen"
+
+#: functions.php:334
+msgid "Loading"
+msgstr "Laden"
+
+#: functions.php:335
+msgid "There are no posts left"
+msgstr "Es gibt keine Stellen mehr"
+
+#: functions.php:336
+#: functions.php:1314
+#: inc/theme-customizer.php:1138
+#: inc/theme-customizer.php:1346
+#: inc/theme-customizer.php:1502
+#: inc/theme-customizer.php:1658
+#: inc/theme-customizer.php:1814
+msgid "Load more"
+msgstr "Mehr laden"
+
+#: functions.php:632
+#: functions.php:651
+msgid "%s ago"
+msgstr "vor %s"
+
+#: functions.php:651
+msgid "Updated"
+msgstr "Aktualisiert"
+
+#: functions.php:653
+msgid "Updated on"
+msgstr "Aktualisiert am"
+
+#: functions.php:704
+#: functions.php:731
+#: functions.php:755
+#: functions.php:781
+#: functions.php:809
+msgid "View all posts in %s"
+msgstr "Alle Beiträge in %s anzeigen"
+
+#: functions.php:1206
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s Kommentar"
+msgstr[1] ""
+
+#: functions.php:1208
+msgid "Comment"
+msgstr "Kommentar"
+
+#: functions.php:1249
+#: template-parts/page/content.php:22
+#: template-parts/single/content.php:52
+msgid "Previous page"
+msgstr "Vorherige Seite"
+
+#: functions.php:1250
+#: template-parts/page/content.php:21
+#: template-parts/single/content.php:51
+msgid "Next page"
+msgstr "Nächste Seite"
+
+#: functions.php:1255
+#: functions.php:1277
+msgid "Posts navigation"
+msgstr "Posts Navigation"
+
+#: functions.php:1282
+#: functions.php:1286
+msgid "Newer posts"
+msgstr "Neuere Beiträge"
+
+#: functions.php:1292
+msgid "Page %1$s of %2$s"
+msgstr "Seite %1$s von %2$s"
+
+#: functions.php:1298
+#: functions.php:1302
+msgid "Older posts"
+msgstr "Ältere Beiträge"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: inc/comments-helper.php:22
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/comments-helper.php:46
+msgid "<strong>%s </strong>"
+msgstr "<strong>%s </strong>"
+
+#: inc/comments-helper.php:52
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: inc/comments-helper.php:60
+msgid "(Edit)"
+msgstr "(Bearbeiten)"
+
+#: inc/comments-helper.php:68
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wartet auf Moderation."
+
+#: inc/comments-helper.php:100
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: inc/comments-helper.php:101
+msgid " "
+msgstr " "
+
+#: inc/comments-helper.php:110
+msgid "(optional)"
+msgstr "(fakultativ)"
+
+#: inc/comments-helper.php:120
+msgid "Name"
+msgstr "Name"
+
+#: inc/comments-helper.php:126
+msgid "E-mail address"
+msgstr "E-Mail Adresse"
+
+#: inc/comments-helper.php:132
+msgid "Website Link"
+msgstr "Website Link"
+
+#: inc/comments-helper.php:152
+msgid " Enter comment here..."
+msgstr " Kommentar hier eingeben..."
+
+#: inc/ocdi-configs.php:21
+#: inc/ocdi-configs.php:34
+msgid "This process will import all demo content (posts, pages, categories, tags, authors, .etc) into your site. If you only want to use the demo homepage layouts with your existing content, please consider importing Elementor Templates following the theme's documentation."
+msgstr "Dieser Prozess importiert alle Demo-Inhalte (Beiträge, Seiten, Kategorien, Tags, Autoren, .etc) in Ihre Website. Wenn Sie nur die Demo-Homepage-Layouts mit Ihren bestehenden Inhalten verwenden möchten, sollten Sie den Import von Elementor-Vorlagen gemäß der Dokumentation des Themas in Betracht ziehen."
+
+#: inc/ocdi-configs.php:21
+#: inc/ocdi-configs.php:34
+msgid "Please make sure you've installed all the required plugins before importing demo content."
+msgstr "Bitte stellen Sie sicher, dass Sie alle erforderlichen Plugins installiert haben, bevor Sie Demo-Inhalte importieren."
+
+#: inc/theme-custom-acf.php:11
+msgid "Post format: Audio"
+msgstr "Format der Beiträge: Audio"
+
+#: inc/theme-custom-acf.php:15
+msgid "Audio URL to embed. You can find all the supported sites here:"
+msgstr "Audio-URL zum Einbetten. Alle unterstützten Websites finden Sie hier:"
+
+#: inc/theme-custom-acf.php:23
+msgid "Or you can upload your own audio file:"
+msgstr "Oder Sie können Ihre eigene Audiodatei hochladen:"
+
+#: inc/theme-custom-acf.php:45
+msgid "Post format: Video"
+msgstr "Format der Beiträge: Video"
+
+#: inc/theme-custom-acf.php:49
+msgid "Video URL"
+msgstr "Video-URL"
+
+#: inc/theme-custom-acf.php:69
+msgid "Post format: Gallery"
+msgstr "Format der Beiträge: Galerie"
+
+#: inc/theme-custom-acf.php:73
+msgid "Gallery"
+msgstr "Galerie"
+
+#: inc/theme-custom-acf.php:91
+msgid "Post format: Image"
+msgstr "Format des Beitrags: Bild"
+
+#: inc/theme-custom-acf.php:95
+msgid "Image"
+msgstr "Bild"
+
+#: inc/theme-custom-acf.php:114
+#: inc/theme-custom-acf.php:220
+msgid "Narasix's settings"
+msgstr "Einstellungen von Narasix"
+
+#: inc/theme-custom-acf.php:131
+msgid "Post header layout"
+msgstr "Layout der Beitragsüberschrift"
+
+#: inc/theme-custom-acf.php:135
+#: inc/theme-custom-acf.php:151
+#: inc/theme-custom-acf.php:183
+#: inc/theme-custom-acf.php:196
+msgid "Global setting"
+msgstr "Globale Einstellung"
+
+#: inc/theme-custom-acf.php:136
+msgid "Thumbnail Top"
+msgstr "Thumbnail oben"
+
+#: inc/theme-custom-acf.php:137
+#: inc/theme-customizer.php:1886
+msgid "Title top"
+msgstr "Titel oben"
+
+#: inc/theme-custom-acf.php:138
+#: inc/theme-customizer.php:1887
+msgid "Overlay"
+msgstr "Überlagerung"
+
+#: inc/theme-custom-acf.php:139
+#: inc/theme-customizer.php:1888
+msgid "Split"
+msgstr "Teilen"
+
+#: inc/theme-custom-acf.php:140
+#: inc/theme-customizer.php:1889
+msgid "No featured image"
+msgstr "Kein angezeigtes Bild"
+
+#: inc/theme-custom-acf.php:147
+#: inc/theme-customizer.php:1906
+msgid "Center header"
+msgstr "Kopfzeile zentrieren"
+
+#: inc/theme-custom-acf.php:152
+#: inc/theme-custom-acf.php:184
+#: inc/theme-custom-acf.php:197
+#: inc/theme-custom-acf.php:228
+#: inc/theme-customizer.php:179
+#: inc/theme-customizer.php:191
+#: inc/theme-customizer.php:291
+#: inc/theme-customizer.php:303
+#: inc/theme-customizer.php:542
+#: inc/theme-customizer.php:596
+#: inc/theme-customizer.php:608
+#: inc/theme-customizer.php:669
+#: inc/theme-customizer.php:681
+#: inc/theme-customizer.php:785
+#: inc/theme-customizer.php:860
+#: inc/theme-customizer.php:930
+#: inc/theme-customizer.php:982
+#: inc/theme-customizer.php:1063
+#: inc/theme-customizer.php:1075
+#: inc/theme-customizer.php:1175
+#: inc/theme-customizer.php:1271
+#: inc/theme-customizer.php:1283
+#: inc/theme-customizer.php:1427
+#: inc/theme-customizer.php:1439
+#: inc/theme-customizer.php:1583
+#: inc/theme-customizer.php:1595
+#: inc/theme-customizer.php:1739
+#: inc/theme-customizer.php:1751
+#: inc/theme-customizer.php:1899
+#: inc/theme-customizer.php:1910
+#: inc/theme-customizer.php:1922
+#: inc/theme-customizer.php:1934
+#: inc/theme-customizer.php:1994
+#: inc/theme-customizer.php:2013
+#: inc/theme-customizer.php:2068
+#: inc/theme-customizer.php:2080
+#: inc/theme-customizer.php:2098
+#: inc/theme-customizer.php:2149
+#: inc/theme-customizer.php:2466
+#: inc/theme-customizer.php:2561
+msgid "Yes"
+msgstr "Ja"
+
+#: inc/theme-custom-acf.php:153
+#: inc/theme-custom-acf.php:185
+#: inc/theme-custom-acf.php:198
+#: inc/theme-custom-acf.php:229
+#: inc/theme-customizer.php:180
+#: inc/theme-customizer.php:192
+#: inc/theme-customizer.php:292
+#: inc/theme-customizer.php:304
+#: inc/theme-customizer.php:543
+#: inc/theme-customizer.php:597
+#: inc/theme-customizer.php:609
+#: inc/theme-customizer.php:670
+#: inc/theme-customizer.php:682
+#: inc/theme-customizer.php:786
+#: inc/theme-customizer.php:861
+#: inc/theme-customizer.php:931
+#: inc/theme-customizer.php:983
+#: inc/theme-customizer.php:1064
+#: inc/theme-customizer.php:1076
+#: inc/theme-customizer.php:1176
+#: inc/theme-customizer.php:1272
+#: inc/theme-customizer.php:1284
+#: inc/theme-customizer.php:1428
+#: inc/theme-customizer.php:1440
+#: inc/theme-customizer.php:1584
+#: inc/theme-customizer.php:1596
+#: inc/theme-customizer.php:1740
+#: inc/theme-customizer.php:1752
+#: inc/theme-customizer.php:1900
+#: inc/theme-customizer.php:1911
+#: inc/theme-customizer.php:1923
+#: inc/theme-customizer.php:1935
+#: inc/theme-customizer.php:1995
+#: inc/theme-customizer.php:2014
+#: inc/theme-customizer.php:2069
+#: inc/theme-customizer.php:2081
+#: inc/theme-customizer.php:2099
+#: inc/theme-customizer.php:2150
+#: inc/theme-customizer.php:2467
+#: inc/theme-customizer.php:2562
+msgid "No"
+msgstr "Nein"
+
+#: inc/theme-custom-acf.php:179
+msgid "Display excerpt"
+msgstr "Auszug anzeigen"
+
+#: inc/theme-custom-acf.php:192
+msgid "Display Table of Content"
+msgstr "Inhaltsverzeichnis anzeigen"
+
+#: inc/theme-custom-acf.php:224
+msgid "Hide page header"
+msgstr "Seitenkopf ausblenden"
+
+#: inc/theme-custom-acf.php:249
+msgid "Narasix's setting"
+msgstr "Narasix' Einstellung"
+
+#: inc/theme-customizer.php:13
+msgid "Narasix Settings"
+msgstr "Narasix Einstellungen"
+
+#: inc/theme-customizer.php:134
+msgid "General"
+msgstr "Allgemein"
+
+#: inc/theme-customizer.php:141
+msgid "Content Layout Width"
+msgstr "Inhalt Layout Breite"
+
+#: inc/theme-customizer.php:145
+#: inc/theme-customizer.php:1136
+#: inc/theme-customizer.php:1344
+#: inc/theme-customizer.php:1500
+#: inc/theme-customizer.php:1656
+#: inc/theme-customizer.php:1812
+#: inc/theme-customizer.php:2118
+msgid "Default"
+msgstr "Standard"
+
+#: inc/theme-customizer.php:146
+msgid "Full-width"
+msgstr "Volle Breite"
+
+#: inc/theme-customizer.php:153
+msgid "Main Background"
+msgstr "Wichtigster Hintergrund"
+
+#: inc/theme-customizer.php:174
+msgid "Thumbnail Default"
+msgstr "Thumbnail Standard"
+
+#: inc/theme-customizer.php:175
+msgid "Display default thumbnail"
+msgstr "Standard-Miniaturansicht anzeigen"
+
+#: inc/theme-customizer.php:187
+msgid "Dark Mode"
+msgstr "Dunkler Modus"
+
+#: inc/theme-customizer.php:199
+msgid "Light Mode Background"
+msgstr "Lichtmodus Hintergrund"
+
+#: inc/theme-customizer.php:200
+#: inc/theme-customizer.php:222
+#: inc/theme-customizer.php:244
+#: inc/theme-customizer.php:266
+msgid "Make sure white text is legible on elements that has this background color."
+msgstr "Stellen Sie sicher, dass weißer Text auf Elementen mit dieser Hintergrundfarbe lesbar ist."
+
+#: inc/theme-customizer.php:221
+msgid "Light Mode Text"
+msgstr "Lichtmodus Text"
+
+#: inc/theme-customizer.php:243
+msgid "Dark Mode Background"
+msgstr "Dunkler Modus Hintergrund"
+
+#: inc/theme-customizer.php:265
+msgid "Dark Mode Text"
+msgstr "Text im dunklen Modus"
+
+#: inc/theme-customizer.php:287
+msgid "Sticky sidebar"
+msgstr "Klebrige Seitenleiste"
+
+#: inc/theme-customizer.php:299
+msgid "Display Back to top button"
+msgstr "Anzeige Schaltfläche Zurück zum Anfang"
+
+#: inc/theme-customizer.php:311
+msgid "Custom Background"
+msgstr "Benutzerdefinierter Hintergrund"
+
+#: inc/theme-customizer.php:333
+msgid "Typography"
+msgstr "Typografie"
+
+#: inc/theme-customizer.php:334
+msgid "It is recommended to use maximum 3 different Google font families for better page load speed."
+msgstr "Es wird empfohlen, maximal 3 verschiedene Google-Schriftfamilien zu verwenden, um die Ladegeschwindigkeit der Seite zu erhöhen."
+
+#: inc/theme-customizer.php:341
+msgid "Body"
+msgstr "Körper"
+
+#: inc/theme-customizer.php:372
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/theme-customizer.php:399
+msgid "Heading"
+msgstr "Überschrift"
+
+#: inc/theme-customizer.php:428
+msgid "Meta Heading"
+msgstr "Meta-Überschrift"
+
+#: inc/theme-customizer.php:457
+msgid "Meta"
+msgstr "Meta"
+
+#: inc/theme-customizer.php:487
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: inc/theme-customizer.php:494
+msgid "Header Layout"
+msgstr "Kopfzeilen-Layout"
+
+#: inc/theme-customizer.php:500
+msgid "Header 3"
+msgstr "Kopfzeile 3"
+
+#: inc/theme-customizer.php:507
+msgid "Header Button"
+msgstr "Schaltfläche \"Kopfzeile"
+
+#: inc/theme-customizer.php:523
+msgid "Url Button"
+msgstr "Url-Schaltfläche"
+
+#: inc/theme-customizer.php:538
+msgid "Custom Background Colors header"
+msgstr "Benutzerdefinierte Hintergrundfarben Kopfzeile"
+
+#: inc/theme-customizer.php:550
+msgid "Header Background Light"
+msgstr "Kopfzeile Hintergrundlicht"
+
+#: inc/theme-customizer.php:571
+msgid "Header Background Dark"
+msgstr "Kopfzeile Hintergrund dunkel"
+
+#: inc/theme-customizer.php:592
+msgid "Sticky header desktop"
+msgstr "Sticky Header Desktop"
+
+#: inc/theme-customizer.php:604
+msgid "Sticky header mobile"
+msgstr "Sticky header mobile"
+
+#: inc/theme-customizer.php:623
+msgid "Header Sticky Background Light"
+msgstr "Kopfzeile Klebender Hintergrund Licht"
+
+#: inc/theme-customizer.php:644
+msgid "Header Sticky Background Dark"
+msgstr "Kopfzeile Klebender Hintergrund Dunkel"
+
+#: inc/theme-customizer.php:665
+msgid "Uppercase menu items"
+msgstr "Menüpunkte in Großbuchstaben"
+
+#: inc/theme-customizer.php:677
+msgid "Show login button"
+msgstr "Anmeldeschaltfläche anzeigen"
+
+#: inc/theme-customizer.php:689
+msgid "Login button's URL"
+msgstr "URL der Anmeldeschaltfläche"
+
+#: inc/theme-customizer.php:690
+msgid "Link to your login page. Leave empty if you want to use the default login popup"
+msgstr "Link zu Ihrer Anmeldeseite. Leer lassen, wenn Sie das Standard-Login-Popup verwenden möchten"
+
+#: inc/theme-customizer.php:705
+msgid "Header logo"
+msgstr "Logo in der Kopfzeile"
+
+#: inc/theme-customizer.php:706
+#: inc/theme-customizer.php:825
+msgid "Logo images' dimensions should double the dimensions specified below for displaying on hi-DPI devices."
+msgstr "Die Abmessungen der Logobilder sollten doppelt so groß sein wie unten angegeben, damit sie auf High-DPI-Geräten angezeigt werden können."
+
+#: inc/theme-customizer.php:717
+msgid "Offcanvas menu logo"
+msgstr "Offcanvas-Menü-Logo"
+
+#: inc/theme-customizer.php:736
+msgid "Footer Layout"
+msgstr "Layout der Fußzeile"
+
+#: inc/theme-customizer.php:740
+msgid "Layout 1"
+msgstr "Grundriss 1"
+
+#: inc/theme-customizer.php:741
+msgid "Layout 2"
+msgstr "Grundriss 2"
+
+#: inc/theme-customizer.php:742
+msgid "Layout 3"
+msgstr "Layout 3"
+
+#: inc/theme-customizer.php:749
+msgid "Footer about Heading"
+msgstr "Fußzeile über Überschrift"
+
+#: inc/theme-customizer.php:765
+msgid "Footer about"
+msgstr "Fußzeile über"
+
+#: inc/theme-customizer.php:781
+msgid "Display form subscribe"
+msgstr "Formular anzeigen abonnieren"
+
+#: inc/theme-customizer.php:800
+msgid "MailChimp Form Url"
+msgstr "MailChimp Formular Url"
+
+#: inc/theme-customizer.php:824
+msgid "Footer logo"
+msgstr "Logo in der Fußzeile"
+
+#: inc/theme-customizer.php:836
+msgid "Footer logo's height (in px)"
+msgstr "Höhe des Fußzeilenlogos (in px)"
+
+#: inc/theme-customizer.php:856
+msgid "Footer Background"
+msgstr "Fußzeilen-Hintergrund"
+
+#: inc/theme-customizer.php:868
+msgid "Footer Background Light"
+msgstr "Fußzeile Hintergrundlicht"
+
+#: inc/theme-customizer.php:889
+msgid "Footer Background Dark"
+msgstr "Fußzeile Hintergrund dunkel"
+
+#: inc/theme-customizer.php:910
+msgid "Footer copyright"
+msgstr "Fußzeile Copyright"
+
+#: inc/theme-customizer.php:926
+msgid "Display social media urls"
+msgstr "URLs sozialer Medien anzeigen"
+
+#: inc/theme-customizer.php:946
+msgid "Blog and Archives"
+msgstr "Blog und Archiv"
+
+#: inc/theme-customizer.php:966
+msgid "Header Blog & Archive"
+msgstr "Kopfzeile Blog & Archiv"
+
+#: inc/theme-customizer.php:970
+#: inc/theme-customizer.php:1983
+msgid "Style 1"
+msgstr "Stil 1"
+
+#: inc/theme-customizer.php:971
+#: inc/theme-customizer.php:1984
+msgid "Style 2"
+msgstr "Stil 2"
+
+#: inc/theme-customizer.php:978
+#: inc/theme-customizer.php:1895
+#: inc/theme-customizer.php:1990
+msgid "Display breadcrumb"
+msgstr "Brotkrümel anzeigen"
+
+#: inc/theme-customizer.php:991
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/theme-customizer.php:998
+msgid "Blog layout"
+msgstr "Blog-Layout"
+
+#: inc/theme-customizer.php:1001
+#: inc/theme-customizer.php:1157
+#: inc/theme-customizer.php:1365
+#: inc/theme-customizer.php:1521
+#: inc/theme-customizer.php:1677
+msgid "List - Landscape"
+msgstr "Liste - Landschaft"
+
+#: inc/theme-customizer.php:1002
+#: inc/theme-customizer.php:1158
+#: inc/theme-customizer.php:1366
+#: inc/theme-customizer.php:1522
+#: inc/theme-customizer.php:1678
+msgid "List - Landscape - No sidebar"
+msgstr "Liste - Querformat - Keine Seitenleiste"
+
+#: inc/theme-customizer.php:1003
+#: inc/theme-customizer.php:1159
+#: inc/theme-customizer.php:1367
+#: inc/theme-customizer.php:1523
+#: inc/theme-customizer.php:1679
+msgid "Mixed 1"
+msgstr "Gemischt 1"
+
+#: inc/theme-customizer.php:1004
+#: inc/theme-customizer.php:1160
+#: inc/theme-customizer.php:1368
+#: inc/theme-customizer.php:1524
+#: inc/theme-customizer.php:1680
+msgid "Mixed 2"
+msgstr "Gemischt 2"
+
+#: inc/theme-customizer.php:1005
+#: inc/theme-customizer.php:1161
+#: inc/theme-customizer.php:1369
+#: inc/theme-customizer.php:1525
+#: inc/theme-customizer.php:1681
+msgid "Grid - Portrait"
+msgstr "Raster - Hochformat"
+
+#: inc/theme-customizer.php:1006
+#: inc/theme-customizer.php:1162
+#: inc/theme-customizer.php:1370
+#: inc/theme-customizer.php:1526
+#: inc/theme-customizer.php:1682
+msgid "Grid - Portrait - No sidebar"
+msgstr "Raster - Hochformat - Keine Seitenleiste"
+
+#: inc/theme-customizer.php:1007
+#: inc/theme-customizer.php:1163
+#: inc/theme-customizer.php:1371
+#: inc/theme-customizer.php:1527
+#: inc/theme-customizer.php:1683
+msgid "Masonry - Portrait"
+msgstr "Mauerwerk - Porträt"
+
+#: inc/theme-customizer.php:1015
+#: inc/theme-customizer.php:1223
+#: inc/theme-customizer.php:1379
+#: inc/theme-customizer.php:1535
+#: inc/theme-customizer.php:1691
+#: inc/theme-customizer.php:1862
+#: inc/theme-customizer.php:1961
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: inc/theme-customizer.php:1037
+#: inc/theme-customizer.php:1245
+#: inc/theme-customizer.php:1401
+#: inc/theme-customizer.php:1557
+#: inc/theme-customizer.php:1713
+msgid "Display mobile columns"
+msgstr "Mobile Spalten anzeigen"
+
+#: inc/theme-customizer.php:1040
+#: inc/theme-customizer.php:1248
+#: inc/theme-customizer.php:1404
+#: inc/theme-customizer.php:1560
+#: inc/theme-customizer.php:1716
+msgid "1"
+msgstr "1"
+
+#: inc/theme-customizer.php:1041
+#: inc/theme-customizer.php:1249
+#: inc/theme-customizer.php:1405
+#: inc/theme-customizer.php:1561
+#: inc/theme-customizer.php:1717
+msgid "2"
+msgstr "2"
+
+#: inc/theme-customizer.php:1060
+#: inc/theme-customizer.php:1268
+#: inc/theme-customizer.php:1424
+#: inc/theme-customizer.php:1580
+#: inc/theme-customizer.php:1736
+msgid "Display post format icon"
+msgstr "Symbol für Beitragsformat anzeigen"
+
+#: inc/theme-customizer.php:1072
+#: inc/theme-customizer.php:1280
+#: inc/theme-customizer.php:1436
+#: inc/theme-customizer.php:1592
+#: inc/theme-customizer.php:1748
+msgid "Custom excerpt length"
+msgstr "Benutzerdefinierte Auszugslänge"
+
+#: inc/theme-customizer.php:1098
+#: inc/theme-customizer.php:1306
+#: inc/theme-customizer.php:1462
+#: inc/theme-customizer.php:1618
+#: inc/theme-customizer.php:1774
+msgid "Excerpt length (in words)"
+msgstr "Länge des Auszugs (in Worten)"
+
+#: inc/theme-customizer.php:1133
+#: inc/theme-customizer.php:1341
+#: inc/theme-customizer.php:1497
+#: inc/theme-customizer.php:1653
+#: inc/theme-customizer.php:1809
+msgid "Pagination"
+msgstr "Paginierung"
+
+#: inc/theme-customizer.php:1137
+#: inc/theme-customizer.php:1345
+#: inc/theme-customizer.php:1501
+#: inc/theme-customizer.php:1657
+#: inc/theme-customizer.php:1813
+msgid "Next and Previous"
+msgstr "Nächste und vorherige"
+
+#: inc/theme-customizer.php:1147
+msgid "Author Archive"
+msgstr "Autor Archiv"
+
+#: inc/theme-customizer.php:1154
+msgid "Author layout"
+msgstr "Autor Layout"
+
+#: inc/theme-customizer.php:1171
+msgid "Author Background"
+msgstr "Autor Hintergrund"
+
+#: inc/theme-customizer.php:1183
+msgid "Author Background Light"
+msgstr "Autor Hintergrundlicht"
+
+#: inc/theme-customizer.php:1203
+msgid "Author Background Dark"
+msgstr "Autor Hintergrund Dunkelheit"
+
+#: inc/theme-customizer.php:1355
+msgid "Category Archive"
+msgstr "Kategorie Archiv"
+
+#: inc/theme-customizer.php:1362
+msgid "Category layout"
+msgstr "Kategorie-Layout"
+
+#: inc/theme-customizer.php:1511
+msgid "Search Archive"
+msgstr "Archiv durchsuchen"
+
+#: inc/theme-customizer.php:1518
+msgid "Search layout"
+msgstr "Layout suchen"
+
+#: inc/theme-customizer.php:1667
+msgid "Tag Archive"
+msgstr "Tag Archiv"
+
+#: inc/theme-customizer.php:1674
+msgid "Tag layout"
+msgstr "Tag-Layout"
+
+#: inc/theme-customizer.php:1823
+msgid "Single Posts and Pages"
+msgstr "Einzelne Beiträge und Seiten"
+
+#: inc/theme-customizer.php:1842
+msgid "Single Post"
+msgstr "Einzelner Posten"
+
+#: inc/theme-customizer.php:1849
+msgid "Post layout"
+msgstr "Post-Layout"
+
+#: inc/theme-customizer.php:1853
+#: inc/theme-customizer.php:1953
+msgid "Layout no Sidebar"
+msgstr "Layout ohne Seitenleiste"
+
+#: inc/theme-customizer.php:1854
+msgid "Layout With Sidebar 1"
+msgstr "Layout mit Seitenleiste 1"
+
+#: inc/theme-customizer.php:1855
+msgid "Layout With Sidebar 2"
+msgstr "Layout mit Seitenleiste 2"
+
+#: inc/theme-customizer.php:1881
+msgid "Single post header layout"
+msgstr "Layout der Kopfzeile eines einzelnen Beitrags"
+
+#: inc/theme-customizer.php:1885
+msgid "Thumbnail top"
+msgstr "Thumbnail oben"
+
+#: inc/theme-customizer.php:1918
+msgid "Display excerpt as div's lead"
+msgstr "Auszug als Aufmacher des Artikels anzeigen"
+
+#: inc/theme-customizer.php:1930
+msgid "Display updated date"
+msgstr "Anzeige des aktualisierten Datums"
+
+#: inc/theme-customizer.php:1942
+msgid "Page"
+msgstr "Seite"
+
+#: inc/theme-customizer.php:1949
+msgid "Page layout"
+msgstr "Layout der Seite"
+
+#: inc/theme-customizer.php:1954
+msgid "Layout With Sidebar"
+msgstr "Layout mit Seitenleiste"
+
+#: inc/theme-customizer.php:1979
+msgid "Page header layout"
+msgstr "Layout des Seitenkopfes"
+
+#: inc/theme-customizer.php:2002
+msgid "Social share"
+msgstr "Sozialer Anteil"
+
+#: inc/theme-customizer.php:2009
+msgid "Display social share"
+msgstr "Sozialen Anteil anzeigen"
+
+#: inc/theme-customizer.php:2021
+msgid "Enable/disable your social share buttons and arrange their orders:"
+msgstr "Aktivieren/deaktivieren Sie Ihre Social-Share-Buttons und ordnen Sie sie an:"
+
+#: inc/theme-customizer.php:2032
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/theme-customizer.php:2057
+msgid "Author box"
+msgstr "Autor-Box"
+
+#: inc/theme-customizer.php:2064
+msgid "Display author box"
+msgstr "Autorenbox anzeigen"
+
+#: inc/theme-customizer.php:2076
+msgid "Display author's info"
+msgstr "Informationen zum Autor anzeigen"
+
+#: inc/theme-customizer.php:2087
+#: inc/theme-customizer.php:2108
+#: template-parts/single/component/related-carousel.php:6
+#: template-parts/single/component/related.php:6
+msgid "Related posts"
+msgstr "Verwandte Beiträge"
+
+#: inc/theme-customizer.php:2094
+msgid "Display related posts"
+msgstr "Verwandte Beiträge anzeigen"
+
+#: inc/theme-customizer.php:2106
+msgid "Related posts section's heading"
+msgstr "Überschrift der Sektion für verwandte Posten"
+
+#: inc/theme-customizer.php:2114
+msgid "Related posts style"
+msgstr "Verwandte Beiträge Stil"
+
+#: inc/theme-customizer.php:2119
+msgid "Card"
+msgstr "Karte"
+
+#: inc/theme-customizer.php:2120
+msgid "Cover"
+msgstr "Abdeckung"
+
+#: inc/theme-customizer.php:2127
+msgid "Post order"
+msgstr "Bestellung aufgeben"
+
+#: inc/theme-customizer.php:2131
+msgid "Latest"
+msgstr "Neueste"
+
+#: inc/theme-customizer.php:2132
+msgid "Random"
+msgstr "Zufällig"
+
+#: inc/theme-customizer.php:2138
+msgid "Table of Content posts"
+msgstr "Inhaltsverzeichnis der Stellen"
+
+#: inc/theme-customizer.php:2145
+msgid "Display table of content posts"
+msgstr "Anzeige von Inhaltsverzeichnissen"
+
+#: inc/theme-customizer.php:2157
+msgid "Headline"
+msgstr "Überschrift"
+
+#: inc/theme-customizer.php:2159
+msgid "Table of Content"
+msgstr "Inhaltsverzeichnis"
+
+#: inc/theme-customizer.php:2167
+msgid "Social Media"
+msgstr "Soziale Medien"
+
+#: inc/theme-customizer.php:2168
+msgid "Enter full URLs of your social media sites below."
+msgstr "Geben Sie unten die vollständigen URLs Ihrer Social-Media-Seiten ein."
+
+#: inc/theme-customizer.php:2359
+msgid "Enable/disable your social media sites and their orders:"
+msgstr "Aktivieren/deaktivieren Sie Ihre Social-Media-Sites und deren Aufträge:"
+
+#: inc/theme-customizer.php:2397
+msgid "Open URLs in a new tab"
+msgstr "URLs in einer neuen Registerkarte öffnen"
+
+#: inc/theme-customizer.php:2401
+#: inc/theme-customizer.php:2413
+msgid "On"
+msgstr "Auf"
+
+#: inc/theme-customizer.php:2402
+#: inc/theme-customizer.php:2414
+msgid "Off"
+msgstr "Aus"
+
+#: inc/theme-customizer.php:2409
+msgid "Add nofollow attribute to URLs"
+msgstr "Hinzufügen des nofollow-Attributs zu URLs"
+
+#: inc/theme-customizer.php:2429
+msgid "404 Page"
+msgstr "404 Seite"
+
+#: inc/theme-customizer.php:2436
+msgid "Title"
+msgstr "Titel"
+
+#: inc/theme-customizer.php:2445
+#: inc/theme-customizer.php:2474
+msgid "Body text"
+msgstr "Haupttext"
+
+#: inc/theme-customizer.php:2447
+msgid "The page you were looking for could not be found.<br/> It might have been removed, renamed, or did not exist in the first place."
+msgstr "Die von Ihnen gesuchte Seite konnte nicht gefunden werden.<br/> Möglicherweise wurde sie entfernt, umbenannt oder existiert gar nicht."
+
+#: inc/theme-customizer.php:2455
+msgid "Cookie"
+msgstr "Keks"
+
+#: inc/theme-customizer.php:2462
+msgid "Display Cookie"
+msgstr "Cookie anzeigen"
+
+#: inc/theme-customizer.php:2476
+msgid "We rely on Cookies to Provide Better User Experience"
+msgstr "Wir verwenden Cookies, um eine bessere Benutzererfahrung zu bieten"
+
+#: inc/theme-customizer.php:2483
+msgid "Learn More"
+msgstr "Mehr erfahren"
+
+#: inc/theme-customizer.php:2492
+msgid "Url Page Cookie"
+msgstr "Url-Seite Cookie"
+
+#: inc/theme-customizer.php:2507
+msgid "Ad Settings"
+msgstr "Anzeigeneinstellungen"
+
+#: inc/theme-customizer.php:2514
+msgid "Data Ad Client"
+msgstr "Daten Anzeigenkunde"
+
+#: inc/theme-customizer.php:2525
+msgid "Top"
+msgstr "Top"
+
+#: inc/theme-customizer.php:2526
+#: inc/theme-customizer.php:2535
+#: inc/theme-customizer.php:2544
+msgid "Insert Ad Code"
+msgstr "Anzeigencode einfügen"
+
+#: inc/theme-customizer.php:2534
+msgid "Middle"
+msgstr "Mitte"
+
+#: inc/theme-customizer.php:2543
+msgid "Bottom"
+msgstr "Unten"
+
+#: inc/theme-customizer.php:2550
+msgid "Sinlge Post"
+msgstr "Einzelner Beitrag"
+
+#: inc/theme-customizer.php:2557
+msgid "Enable Ads"
+msgstr "Anzeigen einschalten"
+
+#: inc/theme-customizer.php:2569
+msgid "Ad Code"
+msgstr "Anzeigencode"
+
+#: inc/theme-customizer.php:2577
+msgid "Insert ad after paragraph"
+msgstr "Anzeige nach Absatz einfügen"
+
+#. translators: 1: sidebar's name
+#: index.php:69
+msgid "Place widgets in %1$s widget area to make them appear here"
+msgstr "Platziere Widgets im %1$s-Widget-Bereich, damit sie hier erscheinen"
+
+#. Template Name of the theme
+#: 
+msgid "Narasix Blank Page"
+msgstr "Narasix Leere Seite"
+
+#: searchform.php:2
+#: searchform.php:6
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: searchform.php:4
+msgctxt "placeholder"
+msgid "Search …"
+msgstr "Suche ..."
+
+#: searchform.php:8
+#: template-parts/header/component/navigation-top.php:37
+#: template-parts/header/header-layout-c.php:45
+#: template-parts/header/header-mobile.php:27
+#: template-parts/header/header-sticky.php:42
+msgid "Search"
+msgstr "Suche"
+
+#: template-parts/block/block-carousel-b.php:86
+#: template-parts/block/block-listing.php:84
+#: template-parts/block/block-listing.php:138
+#: template-parts/block/block-post-a.php:39
+#: template-parts/block/block-post-b.php:43
+#: template-parts/block/block-post-c.php:39
+#: template-parts/block/block-post-d.php:31
+#: template-parts/block/block-post-popular-carousel.php:132
+#: template-parts/block/block-post-popular-grid.php:120
+#: template-parts/page/header/page-header-a.php:56
+#: template-parts/page/header/page-header-b.php:57
+msgid " - Page "
+msgstr " - Seite "
+
+#: template-parts/block/block-hero-post-default.php:78
+#: template-parts/block/block-hero-post-default.php:126
+msgid "Read more"
+msgstr "Mehr lesen"
+
+#: template-parts/content/content-landscape-auto.php:58
+msgid "READ BLOG"
+msgstr "BLOG LESEN"
+
+#: template-parts/footer/footer-layout-b.php:38
+#: template-parts/footer/footer-layout-c.php:12
+msgid "Footer Menu"
+msgstr "Menü Fußzeile"
+
+#: template-parts/header/component/header-login.php:11
+#: template-parts/header/component/navigation-canvas.php:83
+#: template-parts/header/component/navigation-top.php:50
+#: template-parts/header/header-layout-b.php:57
+#: template-parts/header/header-layout-c.php:58
+#: template-parts/header/header-sticky.php:55
+#: template-parts/misc/popup-login.php:7
+msgid "Login"
+msgstr "Anmeldung"
+
+#: template-parts/header/component/header-login.php:12
+#: template-parts/misc/popup-login.php:8
+msgid "Close"
+msgstr "Schließen Sie"
+
+#: template-parts/header/component/header-login.php:39
+#: template-parts/misc/popup-login.php:35
+msgid "Forgot Password"
+msgstr "Passwort vergessen"
+
+#: template-parts/header/component/header-login.php:39
+#: template-parts/misc/popup-login.php:35
+msgid "Forgot Password ?"
+msgstr "Passwort vergessen?"
+
+#: template-parts/header/component/header-search.php:25
+msgid "Result"
+msgstr "Ergebnis"
+
+#: template-parts/header/component/navigation-top.php:32
+#: template-parts/header/header-layout-b.php:39
+#: template-parts/header/header-layout-c.php:40
+#: template-parts/header/header-mobile.php:22
+#: template-parts/header/header-sticky.php:37
+msgid "Darkmode Toggle Button"
+msgstr "Umschalttaste für den Darkmode"
+
+#: template-parts/misc/author-box.php:35
+msgid "Written by"
+msgstr "Geschrieben von"
+
+#: template-parts/page/content.php:16
+#: template-parts/page/content.php:18
+#: template-parts/single/content.php:46
+#: template-parts/single/content.php:48
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: template-parts/page/header/page-header-a.php:9
+#: template-parts/page/header/page-header-b.php:9
+msgid "Latest Posts"
+msgstr "Neueste Beiträge"
+
+#: template-parts/page/header/page-header-a.php:21
+#: template-parts/page/header/page-header-b.php:21
+msgid "Search:"
+msgstr "Suche:"
+
+#: template-parts/page/header/page-header-a.php:29
+#: template-parts/page/header/page-header-b.php:29
+msgid "We found %s result for your search."
+msgstr "Wir haben %s Ergebnisse für Ihre Suche gefunden."
+
+#: template-parts/page/header/page-header-a.php:30
+#: template-parts/page/header/page-header-b.php:30
+msgid "We found %s results for your search."
+msgstr "Wir haben %s Ergebnisse für Ihre Suche gefunden."
+
+#: template-parts/page/header/page-header-a.php:37
+#: template-parts/page/header/page-header-b.php:37
+msgid "We could not find any results for your search."
+msgstr "Wir konnten keine Ergebnisse für Ihre Suche finden."
+
+#: template-parts/single/component/social-share.php:16
+msgid "Share"
+msgstr "Teilen Sie"
+
+#: template-parts/single/content.php:62
+msgid "Filed under :"
+msgstr "Abgelegt unter :"
+
+#: template-parts/single/content.php:76
+msgid "Tags :"
+msgstr "Tags :"
+

@@ -1,0 +1,39 @@
+/**
+ * Used to style WordPress Admin.
+ */
+
+/**
+ * OCDI styles.
+ */
+
+.ocdi--install-plugins .ocdi-install-plugins-content-header p {
+    display: none;
+}
+
+.ocdi--install-plugins .ocdi-install-plugins-content-content .plugin-item {
+    pointer-events: none;
+}
+
+.ocdi--install-plugins .ocdi-install-plugins-content-content .plugin-item:not(.plugin-item-self-hosted-plugin),
+.ocdi--install-plugins .ocdi-install-plugins-content-content .ocdi-content-notice {
+    display: none;
+}
+
+.ocdi--install-plugins .ocdi-install-plugins-content-content .plugin-item-self-hosted-plugin .plugin-item-content-title,
+.ocdi--install-plugins .ocdi-install-plugins-content-content .plugin-item-self-hosted-plugin .plugin-item-checkbox {
+    display: none;
+}
+
+.ocdi--install-plugins .ocdi-install-plugins-content-content .plugin-item-self-hosted-plugin .ocdi-content-notice {
+    display: block;
+    margin: 0;
+}
+
+/**
+ * TGMPA styles
+ */
+
+/* Fix TGMPA plugins table's title styles */
+.tgmpa.wrap > .subsubsub {
+    float: none;
+}
